@@ -12,18 +12,22 @@ DATABASE_CONFIG = {
 
 ## Incorporer les données
 
-Supposant la config ci dessus
+Supposant la configuration ci dessus
 
 ```sh
 psql -U richnou -d richnou -h localhost -p 5432 -f education.sql
 ```
 
-#
+## Création du venv (syntaxe pour Mac)
 
 ```sh
 python3 -m venv venv
 source venv/bin/activate
 ./venv/bin/pip install -r requirements.txt
+```
 
+## Lancement du projet
+
+```sh
 flask --app app --debug run --port 5000
 ```
