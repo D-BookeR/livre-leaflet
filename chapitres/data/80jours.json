@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Londres",
+    "lat": 51.509865,
+    "lng": -0.118092,
+    "id": 1,
+    "img": "london.png"
+  },
+  {
+    "name": "Brindisi",
+    "lat": 40.633331,
+    "lng": 17.933332,
+    "id": 2,
+    "img": "brindisi.png"
+  },
+  {
+    "name": "Suez",
+    "lat": 29.993,
+    "lng": 32.51953,
+    "id": 3,
+    "img": "suez.png"
+  },
+  {
+    "name": "Aden",
+    "lat": 12.8,
+    "lng": 45.03333,
+    "id": 4,
+    "img": "aden.png"
+  },
+  {
+    "name": "Bombay",
+    "lat": 19.07609,
+    "lng": 72.877426,
+    "id": 5,
+    "img": "bombay.png"
+  },
+  {
+    "name": "Allahabad",
+    "lat": 25.44529,
+    "lng": 81.8327,
+    "id": 6,
+    "img": "allahabad.png"
+  },
+  {
+    "name": "Calcutta",
+    "lat": 22.572645,
+    "lng": 88.363892,
+    "id": 7,
+    "img": "calcutta.png"
+  },
+  {
+    "name": "Singapour",
+    "lat": 1.29027,
+    "lng": 103.851959,
+    "id": 8,
+    "img": "singapour.png"
+  },
+  {
+    "name": "Hong Kong",
+    "lat": 22.302711,
+    "lng": 114.177216,
+    "id": 9,
+    "img": "hong-kong.png"
+  },
+  {
+    "name": "Yokohama",
+    "lat": 35.443707,
+    "lng": 139.638031,
+    "id": 10,
+    "img": "yokohama.png"
+  },
+  {
+    "name": "San Francisco",
+    "lat": 37.733795,
+    "lng": -122.446747,
+    "id": 11,
+    "img": "san-francisco.png"
+  },
+  {
+    "name": "New York City",
+    "lat": 40.72781,
+    "lng": -73.96957,
+    "id": 12,
+    "img": "new-york.png"
+  },
+  {
+    "name": "Liverpool",
+    "lat": 53.430759,
+    "lng": -2.961425,
+    "id": 13,
+    "img": "liverpool"
+  },
+  {
+    "name": "Londres",
+    "lat": 51.509865,
+    "lng": -0.118092,
+    "id": 14,
+    "img": "london.png"
+  }
+]

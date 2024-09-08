@@ -1,0 +1,67 @@
+html,
+body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  overflow: hidden;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr;
+}
+
+#container {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  height: 98vh;
+  width: 100%;
+  gap: 1vh;
+  padding: 1vh;
+  box-sizing: border-box;
+}
+
+#map,
+#story {
+  height: 98vh;
+  box-sizing: border-box;
+}
+
+#story {
+  display: flex;
+  flex-direction: column;
+  gap: 1vh;
+}
+
+#title {
+  height: 5vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#text {
+  height: 39vh;
+  overflow-y: auto;
+}
+
+#minimap {
+  height: 49vh;
+
+  overflow-y: hidden;
+}
+
+.storyLegend {
+  border: 2px solid #411093;
+  background: #fff;
+  color: #000;
+  padding: 15px;
+}
+.storyLegend button {
+  border: 2px solid #411093;
+  padding: 15px;
+  font-size: 2em;
+  width: 160px;
+}

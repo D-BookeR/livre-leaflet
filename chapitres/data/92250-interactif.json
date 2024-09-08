@@ -1,0 +1,207 @@
+[
+  {
+    "cat": "jardin",
+    "lat": 48.9082,
+    "lng": 2.2403,
+    "nom": "square Jean-Boiselle"
+  },
+  {
+    "cat": "jardin",
+    "lat": 48.9037,
+    "lng": 2.2451,
+    "nom": "square Jean-Nicolas-Corvisart"
+  },
+  {
+    "cat": "jardin",
+    "lat": 48.9069,
+    "lng": 2.2486,
+    "nom": "square de l'ancienne Bibliothèque"
+  },
+  {
+    "cat": "jardin",
+    "lat": 48.907,
+    "lng": 2.2456,
+    "nom": "parc de l'Hôtel de Ville"
+  },
+  {
+    "cat": "jardin",
+    "lat": 48.9112,
+    "lng": 2.2533,
+    "nom": "parc Wangen im Allgäu"
+  },
+  {
+    "cat": "jardin",
+    "lat": 48.9052,
+    "lng": 2.2368,
+    "nom": "jardin de Yoqneam"
+  },
+  {
+    "cat": "jardin",
+    "lat": 48.9082,
+    "lng": 2.2513,
+    "nom": "square Jean-Jerphanion"
+  },
+  {
+    "cat": "jardin",
+    "lat": 48.9063,
+    "lng": 2.2335,
+    "nom": "jardin de La Sablière"
+  },
+  {
+    "cat": "jardin",
+    "lat": 48.913,
+    "lng": 2.256,
+    "nom": "square Guy-Môquet"
+  },
+  {
+    "cat": "jardin",
+    "lat": 48.9037,
+    "lng": 2.2328,
+    "nom": "square des Bleuets"
+  },
+  {
+    "cat": "jardin",
+    "lat": 48.9035,
+    "lng": 2.2443,
+    "nom": "square Aimé-Heitzmann"
+  },
+  {
+    "cat": "jardin",
+    "lat": 48.9033,
+    "lng": 2.2476,
+    "nom": "square Jeanne d'Arc-Ridel"
+  },
+  {
+    "cat": "jardin",
+    "lat": 48.9055,
+    "lng": 2.2347,
+    "nom": "esplanade de Clarksville"
+  },
+  {
+    "cat": "jardin",
+    "lat": 48.9051,
+    "lng": 2.2354,
+    "nom": "jardin Bonnin"
+  },
+  {
+    "cat": "sport",
+    "lat": 48.9059,
+    "lng": 2.2318,
+    "nom": "Nelson Mandela"
+  },
+  {
+    "cat": "sport",
+    "lat": 48.902,
+    "lng": 2.2285,
+    "nom": "Marcel Payen"
+  },
+  {
+    "cat": "sport",
+    "lat": 48.9056,
+    "lng": 2.2428,
+    "nom": "Claude Chedal Anglay"
+  },
+  {
+    "cat": "sport",
+    "lat": 48.9074,
+    "lng": 2.2566,
+    "nom": "Pierre Denis"
+  },
+  {
+    "cat": "sport",
+    "lat": 48.9054,
+    "lng": 2.2439,
+    "nom": "Piscine Municipale"
+  },
+  {
+    "cat": "ecole",
+    "lat": 48.9043,
+    "lng": 2.23147,
+    "nom": "Coll\u00e8ge Les Champs Philippe"
+  },
+  {
+    "cat": "ecole",
+    "lat": 48.90774,
+    "lng": 2.25566,
+    "nom": "Coll\u00e8ge Les Vall\u00e9es"
+  },
+  {
+    "cat": "ecole",
+    "lat": 48.90789,
+    "lng": 2.25772,
+    "nom": "Ecole maternelle Andr\u00e9 Marsault"
+  },
+  {
+    "cat": "ecole",
+    "lat": 48.90831,
+    "lng": 2.23915,
+    "nom": "Ecole maternelle Ernest Renan"
+  },
+  {
+    "cat": "ecole",
+    "lat": 48.90649,
+    "lng": 2.23545,
+    "nom": "Ecole maternelle Ren\u00e9 Guest"
+  },
+  {
+    "cat": "ecole",
+    "lat": 48.90714,
+    "lng": 2.24917,
+    "nom": "Ecole maternelle Voltaire"
+  },
+  {
+    "cat": "ecole",
+    "lat": 48.90789,
+    "lng": 2.25772,
+    "nom": "Ecole \u00e9l\u00e9mentaire Andr\u00e9 Marsault"
+  },
+  {
+    "cat": "ecole",
+    "lat": 48.90777,
+    "lng": 2.24013,
+    "nom": "Ecole \u00e9l\u00e9mentaire Ernest Renan"
+  },
+  {
+    "cat": "ecole",
+    "lat": 48.90825,
+    "lng": 2.25172,
+    "nom": "Ecole \u00e9l\u00e9mentaire Jean Jerphanion"
+  },
+  {
+    "cat": "ecole",
+    "lat": 48.90665,
+    "lng": 2.23407,
+    "nom": "Ecole \u00e9l\u00e9mentaire Ren\u00e9 Guest"
+  },
+  {
+    "cat": "ecole",
+    "lat": 48.90802,
+    "lng": 2.24865,
+    "nom": "Ecole \u00e9l\u00e9mentaire Sagot Voltaire"
+  },
+  {
+    "cat": "ecole",
+    "lat": 48.90694,
+    "lng": 2.23781,
+    "nom": "Lyc\u00e9e polyvalent La Tournelle"
+  },
+
+  {
+    "cat": "autre",
+    "lat": 48.90907,
+    "lng": 2.24681,
+    "nom": "Marché du centre"
+  },
+  {
+    "cat": "autre",
+    "lat": 48.91135,
+    "lng": 2.25666,
+    "nom": "Marché des Vallées"
+  },
+  {
+    "cat": "autre",
+    "lat": 48.90989,
+    "lng": 2.24542,
+    "nom": "Médiathèque"
+  }
+]

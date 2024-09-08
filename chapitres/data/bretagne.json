@@ -1,0 +1,34 @@
+[
+  {
+    "dep": "22",
+    "nom": "Côtes-d'Armor",
+    "lat": 48.44111,
+    "lng": -2.86417,
+    "croix": 372,
+    "calvaires": 29
+  },
+  {
+    "dep": "29",
+    "nom": "Finistère",
+    "lat": 48.26111,
+    "lng": -4.05889,
+    "croix": 703,
+    "calvaires": 141
+  },
+  {
+    "dep": "35",
+    "nom": "Ille-et-Vilaine",
+    "lat": 48.15444,
+    "lng": -1.63861,
+    "croix": 538,
+    "calvaires": 11
+  },
+  {
+    "dep": "56",
+    "nom": "Morbihan",
+    "lat": 47.84639,
+    "lng": -2.81,
+    "croix": 1782,
+    "calvaires": 103
+  }
+]

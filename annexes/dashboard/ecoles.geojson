@@ -1,0 +1,185 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.23147, 48.9043]
+      },
+      "properties": {
+        "type": "Coll\u00e8ge",
+        "nom": "Coll\u00e8ge Les Champs Philippe",
+        "adresse": "40 avenue de Verdun 1916",
+        "ville": "La Garenne-Colombes",
+        "lat": 48.9043,
+        "lng": 2.23147
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.25566, 48.90774]
+      },
+      "properties": {
+        "type": "Coll\u00e8ge",
+        "nom": "Coll\u00e8ge Les Vall\u00e9es",
+        "adresse": "103 avenue du G\u00e9n\u00e9ral de Gaulle",
+        "ville": "La Garenne-Colombes",
+        "lat": 48.90774,
+        "lng": 2.25566
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.25772, 48.90789]
+      },
+      "properties": {
+        "type": "Maternelle",
+        "nom": "Ecole maternelle publique Andr\u00e9 Marsault",
+        "adresse": "48 rue du Moulin Bailly",
+        "ville": "La Garenne-Colombes",
+        "lat": 48.90789,
+        "lng": 2.25772
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.23915, 48.90831]
+      },
+      "properties": {
+        "type": "Maternelle",
+        "nom": "Ecole maternelle publique Ernest Renan",
+        "adresse": "16 rue Fernand Drouilly",
+        "ville": "La Garenne-Colombes",
+        "lat": 48.90831,
+        "lng": 2.23915
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.23545, 48.90649]
+      },
+      "properties": {
+        "type": "Maternelle",
+        "nom": "Ecole maternelle publique Ren\u00e9 Guest",
+        "adresse": "6 rue des Champs Philippe",
+        "ville": "La Garenne-Colombes",
+        "lat": 48.90649,
+        "lng": 2.23545
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.24917, 48.90714]
+      },
+      "properties": {
+        "type": "Maternelle",
+        "nom": "Ecole maternelle publique Voltaire",
+        "adresse": "44 rue de l'Aigle",
+        "ville": "La Garenne-Colombes",
+        "lat": 48.90714,
+        "lng": 2.24917
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.25772, 48.90789]
+      },
+      "properties": {
+        "type": "Elementaire",
+        "nom": "Ecole \u00e9l\u00e9mentaire publique Andr\u00e9 Marsault",
+        "adresse": "48 rue du Moulin Bailly",
+        "ville": "La Garenne-Colombes",
+        "lat": 48.90789,
+        "lng": 2.25772
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.24013, 48.90777]
+      },
+      "properties": {
+        "type": "Elementaire",
+        "nom": "Ecole \u00e9l\u00e9mentaire publique Ernest Renan",
+        "adresse": "24 avenue Cont\u00e9",
+        "ville": "La Garenne-Colombes",
+        "lat": 48.90777,
+        "lng": 2.24013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.25172, 48.90825]
+      },
+      "properties": {
+        "type": "Elementaire",
+        "nom": "Ecole \u00e9l\u00e9mentaire publique Jean Jerphanion",
+        "adresse": "38 rue Plaisance",
+        "ville": "La Garenne-Colombes",
+        "lat": 48.90825,
+        "lng": 2.25172
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.23407, 48.90665]
+      },
+      "properties": {
+        "type": "Elementaire",
+        "nom": "Ecole \u00e9l\u00e9mentaire publique Ren\u00e9 Guest",
+        "adresse": "3 rue Louis Jean",
+        "ville": "La Garenne-Colombes",
+        "lat": 48.90665,
+        "lng": 2.23407
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.24865, 48.90802]
+      },
+      "properties": {
+        "type": "Elementaire",
+        "nom": "Ecole \u00e9l\u00e9mentaire publique Sagot Voltaire",
+        "adresse": "39 rue Sartoris",
+        "ville": "La Garenne-Colombes",
+        "lat": 48.90802,
+        "lng": 2.24865
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.23781, 48.90694]
+      },
+      "properties": {
+        "type": "Lyc\u00e9e",
+        "nom": "Lyc\u00e9e polyvalent La Tournelle",
+        "adresse": "87 boulevard National",
+        "ville": "La Garenne-Colombes",
+        "lat": 48.90694,
+        "lng": 2.23781
+      }
+    }
+  ]
+}

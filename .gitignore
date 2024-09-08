@@ -1,0 +1,21 @@
+
+.*
+!.gitignore
+.DS_STORE
+
+# node
+node_modules
+build/
+*.log*
+
+# python
+venv
+
+
+# some stuffs...
+t.*
+_*
+*.md
+!README.md
+img/
+index.html

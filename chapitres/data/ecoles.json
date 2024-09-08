@@ -1,0 +1,114 @@
+[
+  {
+    "nom": "DCP",
+    "lat": 48.8684,
+    "lng": 2.3691,
+    "stats": {
+      "Atelier": 0,
+      "Code": 0,
+      "Data": 0,
+      "Divers": 0,
+      "Jeu": 0,
+      "Mobile": 34.78,
+      "Web": 65.22
+    }
+  },
+  {
+    "nom": "ECVD",
+    "lat": 48.8512,
+    "lng": 2.3821,
+    "stats": {
+      "Atelier": 0,
+      "Code": 100,
+      "Data": 0,
+      "Divers": 0,
+      "Jeu": 0,
+      "Mobile": 0,
+      "Web": 0
+    }
+  },
+  {
+    "nom": "ESIEA",
+    "lat": 48.8379,
+    "lng": 2.35259,
+    "stats": {
+      "Atelier": 0,
+      "Code": 100,
+      "Data": 0,
+      "Divers": 0,
+      "Jeu": 0,
+      "Mobile": 0,
+      "Web": 0
+    }
+  },
+  {
+    "nom": "SDW",
+    "lat": 48.8572,
+    "lng": 2.2811,
+    "stats": {
+      "Atelier": 0,
+      "Code": 0,
+      "Data": 0,
+      "Divers": 0,
+      "Jeu": 23.53,
+      "Mobile": 0,
+      "Web": 76.47
+    }
+  },
+  {
+    "nom": "ESGI",
+    "lat": 48.8497,
+    "lng": 2.3869,
+    "stats": {
+      "Atelier": 0,
+      "Code": 0,
+      "Data": 0,
+      "Divers": 0,
+      "Jeu": 47.37,
+      "Mobile": 52.63,
+      "Web": 0
+    }
+  },
+  {
+    "nom": "ESP",
+    "lat": 48.8668,
+    "lng": 2.2881,
+    "stats": {
+      "Atelier": 0,
+      "Code": 0,
+      "Data": 0,
+      "Divers": 0,
+      "Jeu": 0,
+      "Mobile": 0,
+      "Web": 100
+    }
+  },
+  {
+    "nom": "ESD",
+    "lat": 48.8561,
+    "lng": 2.3079,
+    "stats": {
+      "Atelier": 21.71,
+      "Code": 0,
+      "Data": 17.43,
+      "Divers": 1.71,
+      "Jeu": 5.71,
+      "Mobile": 10,
+      "Web": 43.43
+    }
+  },
+  {
+    "nom": "MDS",
+    "lat": 48.8588,
+    "lng": 2.3741,
+    "stats": {
+      "Atelier": 0,
+      "Code": 100,
+      "Data": 0,
+      "Divers": 0,
+      "Jeu": 0,
+      "Mobile": 0,
+      "Web": 0
+    }
+  }
+]

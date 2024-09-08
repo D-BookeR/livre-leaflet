@@ -1,0 +1,826 @@
+[
+  {
+    "departement": "Cher",
+    "fromages": [
+      "Santranges-sancerre",
+      "Faisselle",
+      "Crottin de Chavignol",
+      "Valençay"
+    ],
+    "count": 4,
+    "lat": 47.06692,
+    "lng": 2.48626
+  },
+  {
+    "departement": "Hautes-Alpes",
+    "fromages": [
+      "Bleu du Dévoluy",
+      "Saint-laurent",
+      "Pic du Vieux Chaillol",
+      "Tome du Champsaur",
+      "Aiguille d'Orcières",
+      "Persillé du col Bayard"
+    ],
+    "count": 6,
+    "lat": 44.66026,
+    "lng": 6.26479
+  },
+  {
+    "departement": "Nord",
+    "fromages": [
+      "Tome de Cambrai",
+      "Le Rouchi à l'échalote",
+      "Mimolette",
+      "Baguette paysanne à la moutarde",
+      "Mont des Cats",
+      "Boulette d'Avesnes",
+      "Rollot",
+      "Dauphin",
+      "Carré du Vinage",
+      "Briquette de l'Ecaillon",
+      "Larron d'Ors",
+      "Boulet de Cassel",
+      "T'chiot biloute"
+    ],
+    "count": 13,
+    "lat": 50.44745,
+    "lng": 3.21154
+  },
+  {
+    "departement": "Pas-de-Calais",
+    "fromages": [
+      "Vieux Boulogne",
+      "Crémet du Cap Blanc Nez",
+      "Le Sire de Créquy",
+      "Rollot",
+      "Pavé aux Algues de Samer",
+      "Trappiste de Belval",
+      "Fort de Béthune",
+      "Vieux Samer",
+      "Ch'ti Crémeux"
+    ],
+    "count": 9,
+    "lat": 50.4904,
+    "lng": 2.28387
+  },
+  {
+    "departement": "Savoie",
+    "fromages": [
+      "Bleu de Sainte-Foy",
+      "Tignard",
+      "Bleu du Mont-Cenis",
+      "Tomme crayeuse",
+      "Moelleux du Revard",
+      "Beaumont",
+      "Beaufort",
+      "Persillé de Tignes",
+      "Chevrotin",
+      "Gruyère français",
+      "Abondance",
+      "Raclette",
+      "Vacherin des Bauges",
+      "Grataron du Beaufortain",
+      "Persillé des Aravis",
+      "Tome des Bauges",
+      "Abbaye de Tamié",
+      "Avalin",
+      "Thollon",
+      "Persillé du Mont-Cenis",
+      "Tomme blanche",
+      "Emmental de Savoie",
+      "Tomme de Savoie",
+      "Tomme forte de Savoie",
+      "Reblochon",
+      "Brézain",
+      "Bleu de Termignon",
+      "Fromage aux noix"
+    ],
+    "count": 28,
+    "lat": 45.47509,
+    "lng": 6.44225
+  },
+  {
+    "departement": "Oise",
+    "fromages": ["Neufchâtel", "Tomme au foin"],
+    "count": 2,
+    "lat": 49.40814,
+    "lng": 2.4277
+  },
+  {
+    "departement": "Haute-Marne",
+    "fromages": [
+      "Époisses",
+      "Gruyère français",
+      "Brie de Meaux",
+      "Langres",
+      "Caprice des Dieux"
+    ],
+    "count": 5,
+    "lat": 48.11229,
+    "lng": 5.22903
+  },
+  {
+    "departement": "Cantal",
+    "fromages": [
+      "Cabécou",
+      "Laguiole",
+      "Tome fraîche",
+      "Salers",
+      "Fromage de Pays",
+      "Cantal",
+      "Carré d'Aurillac",
+      "Saint-nectaire",
+      "Bleu d'Auvergne",
+      "Bleu de Thiézac"
+    ],
+    "count": 10,
+    "lat": 45.05255,
+    "lng": 2.66724
+  },
+  {
+    "departement": "Aveyron",
+    "fromages": [
+      "Cabécou",
+      "Tome fraîche",
+      "Pérail",
+      "Gabriel Coulet",
+      "Laguiole",
+      "Caillé",
+      "Bleu d'Auvergne",
+      "Lou Pérac",
+      "Rebarbe",
+      "Bleu des Causses",
+      "Roquefort",
+      "Société",
+      "Recuite"
+    ],
+    "count": 13,
+    "lat": 44.28215,
+    "lng": 2.6773
+  },
+  {
+    "departement": "Indre",
+    "fromages": [
+      "Valençay",
+      "Arthon",
+      "Pouligny-saint-pierre",
+      "Tournon-saint-pierre",
+      "Sainte-Maure de Touraine"
+    ],
+    "count": 5,
+    "lat": 46.77971,
+    "lng": 1.57443
+  },
+  {
+    "departement": "Ain",
+    "fromages": [
+      "Gruyère français",
+      "Bresse Bleu",
+      "Pourri bressan",
+      "Chevret du Haut-Jura",
+      "Chevret",
+      "Tracle",
+      "Bleu de Gex",
+      "Comté",
+      "Emmental de Savoie",
+      "Clon",
+      "Ramequin",
+      "Morbier",
+      "Carré Frais"
+    ],
+    "count": 13,
+    "lat": 46.09934,
+    "lng": 5.34992
+  },
+  {
+    "departement": "Haute-Loire",
+    "fromages": [
+      "Rochebaron",
+      "Bleu de Loudes",
+      "Fromage aux artisons",
+      "Tomme de Montagne",
+      "Bleu de Costaros",
+      "Montbriac",
+      "Bleu d'Auvergne",
+      "Saint Agur"
+    ],
+    "count": 8,
+    "lat": 45.12843,
+    "lng": 3.80398
+  },
+  {
+    "departement": "Charente-Maritime",
+    "fromages": [
+      "Jonchée",
+      "Tricorne de Marans",
+      "Caillebotte"
+    ],
+    "count": 3,
+    "lat": 45.7753,
+    "lng": -0.68287
+  },
+  {
+    "departement": "Eure",
+    "fromages": [
+      "Le Pavé du Plessis",
+      "Pont-l'évêque",
+      "Pavé d'Auge"
+    ],
+    "count": 3,
+    "lat": 49.11735,
+    "lng": 0.99464
+  },
+  {
+    "departement": "Sarthe",
+    "fromages": ["Kiri", "Cousteron"],
+    "count": 2,
+    "lat": 47.99393,
+    "lng": 0.22766
+  },
+  {
+    "departement": "Territoire de Belfort",
+    "fromages": ["Gruyère français", "Munster"],
+    "count": 2,
+    "lat": 47.63461,
+    "lng": 6.92327
+  },
+  {
+    "departement": "Dordogne",
+    "fromages": [
+      "Chaumes",
+      "St Môret",
+      "Trappe Échourgnac"
+    ],
+    "count": 3,
+    "lat": 45.10592,
+    "lng": 0.74135
+  },
+  {
+    "departement": "Maine-et-Loire",
+    "fromages": ["Chaussée aux moines"],
+    "count": 1,
+    "lat": 47.38687,
+    "lng": -0.55756
+  },
+  {
+    "departement": "Seine-Maritime",
+    "fromages": [
+      "Le Graval",
+      "Bouille",
+      "Pont-l'évêque",
+      "Neufchâtel"
+    ],
+    "count": 4,
+    "lat": 49.65929,
+    "lng": 1.03091
+  },
+  {
+    "departement": "Loir-et-Cher",
+    "fromages": [
+      "Valençay",
+      "Selles-sur-cher",
+      "Le Petit Trôo",
+      "Sainte-Maure de Touraine"
+    ],
+    "count": 4,
+    "lat": 47.61667,
+    "lng": 1.42936
+  },
+  {
+    "departement": "Seine-et-Marne",
+    "fromages": [
+      "Coulommiers",
+      "Brie de Montereau",
+      "Fontainebleau",
+      "Brie de Meaux",
+      "Brie de Melun",
+      "Brie de Nangis",
+      "Gratte-Paille"
+    ],
+    "count": 7,
+    "lat": 48.62812,
+    "lng": 2.93531
+  },
+  {
+    "departement": "Lot",
+    "fromages": [
+      "Cabécou",
+      "Bleu du Quercy",
+      "Bleu d'Auvergne",
+      "Rocamadour"
+    ],
+    "count": 4,
+    "lat": 44.62022,
+    "lng": 1.60336
+  },
+  {
+    "departement": "Loire-Atlantique",
+    "fromages": [
+      "Le Curé Nantais",
+      "Gourmelin",
+      "Saint-gildas-des-bois",
+      "Chandamour"
+    ],
+    "count": 4,
+    "lat": 47.36125,
+    "lng": -1.67504
+  },
+  {
+    "departement": "Aube",
+    "fromages": [
+      "Chaource",
+      "Soumaintrain",
+      "Brie de Meaux",
+      "Barberey",
+      "Brie de Melun"
+    ],
+    "count": 5,
+    "lat": 48.30569,
+    "lng": 4.15915
+  },
+  {
+    "departement": "Allier",
+    "fromages": [
+      "Chambérat",
+      "Le Délice du Chalet",
+      "Bessay",
+      "Charolais",
+      "Grand tomachon"
+    ],
+    "count": 5,
+    "lat": 46.39359,
+    "lng": 3.18694
+  },
+  {
+    "departement": "Calvados",
+    "fromages": [
+      "Pavé d'Auge",
+      "Carré de Bonneville",
+      "Pont-l'évêque"
+    ],
+    "count": 3,
+    "lat": 49.09973,
+    "lng": -0.36028
+  },
+  {
+    "departement": "Manche",
+    "fromages": ["Coutances", "Pont-l'évêque"],
+    "count": 2,
+    "lat": 49.08448,
+    "lng": -1.32695
+  },
+  {
+    "departement": "Loiret",
+    "fromages": [
+      "Olivet",
+      "Patay",
+      "Pithiviers au foin",
+      "Crottin de Chavignol",
+      "Chécy",
+      "Frinault",
+      "Pannes cendré"
+    ],
+    "count": 7,
+    "lat": 47.91166,
+    "lng": 2.34174
+  },
+  {
+    "departement": "Yonne",
+    "fromages": [
+      "Suprême des Ducs",
+      "Époisses",
+      "Boule des moines",
+      "Brie de Melun",
+      "Saint-florentin",
+      "Boulette de la Pierre-qui-Vire",
+      "Abbaye de la Pierre-qui-Vire",
+      "Soumaintrain"
+    ],
+    "count": 8,
+    "lat": 47.8394,
+    "lng": 3.56294
+  },
+  {
+    "departement": "Somme",
+    "fromages": ["Rollot"],
+    "count": 1,
+    "lat": 49.95466,
+    "lng": 2.27878
+  },
+  {
+    "departement": "Aisne",
+    "fromages": ["Dauphin", "Belle des champs"],
+    "count": 2,
+    "lat": 49.55656,
+    "lng": 3.56203
+  },
+  {
+    "departement": "Gard",
+    "fromages": ["Picodon", "Pélardon"],
+    "count": 2,
+    "lat": 43.99564,
+    "lng": 4.17902
+  },
+  {
+    "departement": "Vienne",
+    "fromages": [
+      "Sainte-Maure de Touraine",
+      "Mottin charentais"
+    ],
+    "count": 2,
+    "lat": 46.56389,
+    "lng": 0.46223
+  },
+  {
+    "departement": "Indre-et-Loire",
+    "fromages": [
+      "Sainte-Maure de Touraine",
+      "Couronne Lochoise",
+      "Valençay"
+    ],
+    "count": 3,
+    "lat": 47.25843,
+    "lng": 0.69055
+  },
+  {
+    "departement": "Haute-Garonne",
+    "fromages": ["Cathare", "Tomme des Pyrénées"],
+    "count": 2,
+    "lat": 43.36183,
+    "lng": 1.18274
+  },
+  {
+    "departement": "Orne",
+    "fromages": [
+      "Fourmagée",
+      "Le Rustique",
+      "Pont-l'évêque",
+      "Pavé d'Auge"
+    ],
+    "count": 4,
+    "lat": 48.6242,
+    "lng": 0.1239
+  },
+  {
+    "departement": "Vosges",
+    "fromages": ["Munster", "Gruyère français"],
+    "count": 2,
+    "lat": 48.19426,
+    "lng": 6.37595
+  },
+  {
+    "departement": "Haute-Corse",
+    "fromages": ["Brin d'amour", "A Filetta", "Corsica"],
+    "count": 3,
+    "lat": 42.39445,
+    "lng": 9.21065
+  },
+  {
+    "departement": "Loire",
+    "fromages": [
+      "Fourme de Montbrison",
+      "Fromager d'Affinois",
+      "Charolais",
+      "Rigotte de Condrieu",
+      "Rigotte de Pélussin"
+    ],
+    "count": 5,
+    "lat": 45.72771,
+    "lng": 4.16117
+  },
+  {
+    "departement": "Mayenne",
+    "fromages": [
+      "Pont-l'évêque",
+      "Vieux pané",
+      "Chaussée aux moines",
+      "Port-Salut",
+      "Trappiste de Laval",
+      "Bons Mayennais"
+    ],
+    "count": 6,
+    "lat": 48.14637,
+    "lng": -0.65589
+  },
+  {
+    "departement": "Aude",
+    "fromages": ["Tomme des Pyrénées", "Pélardon"],
+    "count": 2,
+    "lat": 43.10404,
+    "lng": 2.41617
+  },
+  {
+    "departement": "Moselle",
+    "fromages": [
+      "Munster",
+      "Tourrée de l'Aubier",
+      "Tomme de Gorze"
+    ],
+    "count": 3,
+    "lat": 49.03716,
+    "lng": 6.66205
+  },
+  {
+    "departement": "Haut-Rhin",
+    "fromages": ["Munster"],
+    "count": 1,
+    "lat": 47.85442,
+    "lng": 7.27573
+  },
+  {
+    "departement": "Ardennes",
+    "fromages": ["Rocroi"],
+    "count": 1,
+    "lat": 49.6129,
+    "lng": 4.64619
+  },
+  {
+    "departement": "Tarn",
+    "fromages": ["Pérail", "Pélardon"],
+    "count": 2,
+    "lat": 43.78736,
+    "lng": 2.16278
+  },
+  {
+    "departement": "Morbihan",
+    "fromages": [
+      "Trappiste de Campénéac",
+      "Abbaye de la Joie Notre-Dame",
+      "Tome de Rhuys"
+    ],
+    "count": 3,
+    "lat": 47.84414,
+    "lng": -2.8088
+  },
+  {
+    "departement": "Jura",
+    "fromages": [
+      "Bleu de Gex",
+      "Chevret du Haut-Jura",
+      "Gruyère français",
+      "Pérassu",
+      "Morbier",
+      "La Vache qui rit"
+    ],
+    "count": 6,
+    "lat": 46.73073,
+    "lng": 5.69547
+  },
+  {
+    "departement": "Marne",
+    "fromages": ["Moulin de Gaye", "Brie de Meaux"],
+    "count": 2,
+    "lat": 48.94769,
+    "lng": 4.23656
+  },
+  {
+    "departement": "Bas-Rhin",
+    "fromages": ["Munster"],
+    "count": 1,
+    "lat": 48.67203,
+    "lng": 7.55859
+  },
+  {
+    "departement": "Meurthe-et-Moselle",
+    "fromages": ["Munster"],
+    "count": 1,
+    "lat": 48.78701,
+    "lng": 6.16817
+  },
+  {
+    "departement": "Vaucluse",
+    "fromages": ["Picodon"],
+    "count": 1,
+    "lat": 44.00445,
+    "lng": 5.17763
+  },
+  {
+    "departement": "Val-de-Marne",
+    "fromages": ["Délice de Saint-Cyr"],
+    "count": 1,
+    "lat": 48.76929,
+    "lng": 2.47462
+  },
+  {
+    "departement": "Doubs",
+    "fromages": ["Gruyère français", "Morbier"],
+    "count": 2,
+    "lat": 47.16207,
+    "lng": 6.36119
+  },
+  {
+    "departement": "Ille-et-Vilaine",
+    "fromages": ["Petit Billy"],
+    "count": 1,
+    "lat": 48.15849,
+    "lng": -1.63554
+  },
+  {
+    "departement": "Charente",
+    "fromages": ["Taupinette", "Chavroux"],
+    "count": 2,
+    "lat": 45.71509,
+    "lng": 0.19842
+  },
+  {
+    "departement": "Landes",
+    "fromages": ["Amou"],
+    "count": 1,
+    "lat": 43.96789,
+    "lng": -0.78938
+  },
+  {
+    "departement": "Eure-et-Loir",
+    "fromages": ["Voves cendré"],
+    "count": 1,
+    "lat": 48.39043,
+    "lng": 1.36981
+  },
+  {
+    "departement": "Corrèze",
+    "fromages": [
+      "Truffe de Ventadour",
+      "Pavé corrézien",
+      "Ovalie",
+      "Bleu d'Auvergne"
+    ],
+    "count": 4,
+    "lng": 1.87694,
+    "lat": 45.35694
+  },
+  {
+    "departement": "Drôme",
+    "fromages": [
+      "Pétafine",
+      "Picodon",
+      "Foudjou",
+      "Bleu du Vercors-Sassenage"
+    ],
+    "count": 4,
+    "lng": 5.16806,
+    "lat": 44.68417
+  },
+  {
+    "departement": "Pyrénées-Atlantiques",
+    "fromages": [
+      "Ardi-Gasna",
+      "Saint Albray",
+      "Tomette de Brebis",
+      "Le Bleu des Basques",
+      "P'tit Basque",
+      "Kaïkou",
+      "Le Brebiou",
+      "Ossau-iraty",
+      "Etorki",
+      "Tomme des Pyrénées",
+      "Gaztanbera",
+      "Abbaye de Belloc"
+    ],
+    "count": 12,
+    "lng": -0.76139,
+    "lat": 43.25667
+  },
+  {
+    "departement": "Rhône",
+    "fromages": [
+      "Arôme au vin blanc",
+      "Charolais",
+      "Mâconnais",
+      "Rigotte de Condrieu",
+      "La Pierre Dorée",
+      "Arôme de Lyon",
+      "Tarare"
+    ],
+    "count": 7,
+    "lng": 4.64139,
+    "lat": 45.87028
+  },
+  {
+    "departement": "Côte-d'Or",
+    "fromages": [
+      "L'Ami du Chambertin",
+      "Époisses",
+      "Gruyère français",
+      "Affidélice",
+      "Le Trou du Cru",
+      "Aisy cendré",
+      "Petit Gaugry",
+      "Abbaye de Cîteaux"
+    ],
+    "count": 8,
+    "lng": 4.77222,
+    "lat": 47.42472
+  },
+  {
+    "departement": "Isère",
+    "fromages": [
+      "Bleu de Lavaldens",
+      "Gruyère français",
+      "Bleu du Vercors-Sassenage"
+    ],
+    "count": 3,
+    "lng": 5.57611,
+    "lat": 45.26333
+  },
+  {
+    "departement": "Haute-Saône",
+    "fromages": ["Gruyère français", "Munster"],
+    "count": 2,
+    "lng": 6.08611,
+    "lat": 47.64111
+  },
+  {
+    "departement": "Saône-et-Loire",
+    "fromages": [
+      "Gruyère français",
+      "Autun",
+      "Morbier",
+      "Bouton de Culotte",
+      "Charolais",
+      "Mâconnais",
+      "Montrachet"
+    ],
+    "count": 7,
+    "lng": 4.54222,
+    "lat": 46.64472
+  },
+  {
+    "departement": "Puy-de-Dôme",
+    "fromages": [
+      "Fourme de Rochefort-Montagne",
+      "Bleu d'Auvergne",
+      "Bleu de Laqueuille",
+      "Saint-nectaire",
+      "Gaperon",
+      "Roue de Ris",
+      "Le Lavort",
+      "Fourme de Montbrison",
+      "Fourme d'Ambert",
+      "Chèvreton"
+    ],
+    "count": 10,
+    "lng": 3.14083,
+    "lat": 45.72583
+  },
+  {
+    "departement": "Ardèche",
+    "fromages": [
+      "Picodon",
+      "Chèvreton",
+      "Saint-félicien",
+      "Rogeret des Cévennes",
+      "Le Coucouron"
+    ],
+    "count": 5,
+    "lng": 4.42472,
+    "lat": 44.75167
+  },
+  {
+    "departement": "Hautes-Pyrénées",
+    "fromages": [
+      "Barousse",
+      "Ossau-iraty",
+      "Tomme des Pyrénées"
+    ],
+    "count": 3,
+    "lng": 0.16389,
+    "lat": 43.05306
+  },
+  {
+    "departement": "Hérault",
+    "fromages": ["Pélardon"],
+    "count": 1,
+    "lng": 3.36722,
+    "lat": 43.57972
+  },
+  {
+    "departement": "Lozère",
+    "fromages": [
+      "Bleu des Causses",
+      "Le Fédou",
+      "Tome fraîche",
+      "Pélardon",
+      "Lévéjac",
+      "Rebarbe",
+      "Persillé du Malzieu",
+      "Bleu d'Auvergne",
+      "Laguiole"
+    ],
+    "count": 9,
+    "lng": 3.50028,
+    "lat": 44.51722
+  },
+  {
+    "departement": "Ariège",
+    "fromages": [
+      "Bethmale",
+      "Montségur",
+      "Le Moulis",
+      "Tomme des Pyrénées",
+      "Le Rogallais"
+    ],
+    "count": 5,
+    "lng": 1.50389,
+    "lat": 42.92083
+  }
+]
