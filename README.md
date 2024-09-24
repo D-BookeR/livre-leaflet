@@ -2,6 +2,8 @@
 
 ## Le livre
 
+![Couverture du livre Cartographie web avec Leaflet](leaflet-couverture-vignette.jpg)
+
 -   Auteur [Richard Carlier](https://www.linkedin.com/in/rcarlier)
 -   Éditeur [D-BookeR](https://www.d-booker.fr)
 -   ISBN (papier): 978-2-8227-1142-5 / ISBN (e-book): 978-2-8227-1143-2
