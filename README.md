@@ -40,3 +40,6 @@ Le dossier `annexes` contient le code des annexes... et nécessitant des install
 -   `annexes/R` pour un exemple en R
 -   `annexes/react` pour un exemple avec react-leaflet
 -   `annexes/vue` pour un exemple avec Vue3
+
+
+Ces exemples vous intéressent ? Vous pouvez acheter ce livre en librairie ou sur [notre site](https://www.d-booker.fr/programmation-et-langage/819-cartographie-web-avec-leaflet.html). 
